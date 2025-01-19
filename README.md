@@ -4,7 +4,7 @@ I created this auto clicker for computer automation without having to download a
 
 Steps:
 1. You must install python to be able to run this file
-2. Download the file
+2. Save the code as a .py file
 3. Run the file as an administrator
 
 Notes: 
